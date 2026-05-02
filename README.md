@@ -1,4 +1,5 @@
 # git-demo
 This is my first Git repository.
 <br>
-author - kiran Gowda DM
+author - kiran Gowda DM 
+name=kiran
